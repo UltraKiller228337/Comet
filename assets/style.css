@@ -313,7 +313,7 @@ body {
 .shining__particle:first-child {
 	left: -15px;
 	top: 30%;
-	animation: shining 4s infinite, shining-move-scale-1 12s ease-out infinite;
+	animation: shining 4.5s infinite, shining-move-scale-1 12s ease-out infinite;
 }
 
 .shining__particle:nth-child(2) {
